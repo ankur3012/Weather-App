@@ -1,2 +1,2 @@
 # Weather-App
-A weather app using tml,JavaScript and RapidAPI
+A weather app using html,JavaScript and RapidAPI
